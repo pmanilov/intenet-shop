@@ -2,7 +2,7 @@
 <head>
     <title>Welcome page</title>
 </head>
-<body>
+<body style="text-align: center">
 <h1>Welcome!</h1>
 <p>Click <a href="/products">here</a> to see my internet shop.</p>
 </body>

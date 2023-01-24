@@ -6,7 +6,7 @@
         crossorigin="anonymous">
   <title>Login</title>
 </head>
-<body>
+<body style="text-align: center">
 Login page
 <@l.login "/login" "Sign In"/>
 <a href="/registration"> <button class="btn btn-danger">Registration</button></a>

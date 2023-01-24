@@ -6,7 +6,7 @@
         crossorigin="anonymous">
   <title>Registration</title>
 </head>
-<body>
+<body style="text-align: center">
 Registration page<br>
 ${message}
 <@l.login "/registration" "Register"/>
